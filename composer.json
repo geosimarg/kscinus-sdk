@@ -1,0 +1,19 @@
+{
+    "name": "ggds/kscinus-sdk",
+    "description": "mini sdk to kscinus platform",
+    "type": "library",
+    "version": "v0.1.0",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "GGdS\\KscinusSDK\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Geosimar",
+            "email": "geosimar@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
