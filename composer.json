@@ -2,7 +2,7 @@
     "name": "ggds/kscinus-sdk",
     "description": "mini sdk to kscinus platform",
     "type": "library",
-    "version": "v0.1.0",
+    "version": "v0.2.0",
     "license": "MIT",
     "autoload": {
         "psr-4": {
